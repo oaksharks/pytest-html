@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="pytest-html",
-    use_scm_version=True,
+    version='2.1.1.wuhf',
     description="pytest plugin for generating HTML reports",
     long_description=open("README.rst").read(),
     author="Dave Hunt",
